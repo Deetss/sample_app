@@ -24,3 +24,6 @@
 
 #ignore Spring to prevent conflict
 /spring/*.pid
+
+#ignore c9
+/.c9/*
