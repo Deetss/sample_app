@@ -1,3 +1,4 @@
+[ ![Codeship Status for Deetss/sample_app](https://app.codeship.com/projects/79f29fb0-9439-0135-71a3-5277acc5dfee/status?branch=master)](https://app.codeship.com/projects/250878)
 # Ruby on Rails Tutorial sample application
 
 This is the sample application for
