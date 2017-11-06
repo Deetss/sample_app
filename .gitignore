@@ -25,5 +25,8 @@
 #ignore Spring to prevent conflict
 /spring/*.pid
 
+# Ignore uploaded test images.
+/public/uploads
+
 #ignore c9
 /.c9/*
